@@ -1,7 +1,5 @@
 #  Hackathon VTB METAVERSE
 
-![Screenshot](Screenshot.png)
-
 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ### Описание
@@ -20,3 +18,5 @@
 
 ### Запуск проекта
 Запустить исполняемый файл Hakaton.uproject
+
+![Screenshot](Screenshot.png)
